@@ -26,13 +26,6 @@ Expert in **TypeScript, React, architectural solutions and performance optimizat
 
 ---
 
-### 📊 GitHub Statistics
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=makaksel&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=makaksel&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makaksel&layout=compact&theme=radical)
-
----
-
 ### 📫 Contacts
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/guffyguf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/aleksander-makarov/))
