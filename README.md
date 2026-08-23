@@ -5,7 +5,7 @@
 ---
 
 ### 🧑‍💻 About me
-Senior Developer with 6+ years of experience in building high-load web applications and 3 years of managing teams of up to 8 engineers.
+Senior Developer with 7+ years of experience in building high-load web applications and 3 years of managing teams of up to 8 engineers.
 
 Expert in **TypeScript, React, architectural solutions and performance optimization**.
 
